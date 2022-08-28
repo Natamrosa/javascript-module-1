@@ -1,4 +1,6 @@
-> 1 + 2
+
+/*
+1 + 2
 3 //realiza la suma pedida
 > "hello"
 'hello'
@@ -8,5 +10,4 @@ undefined //no devuelve el color porque sólo está definida
 'purple' //funciona
 > console.log(favouriteColour)
 purple // funciona
->
->
+*/
