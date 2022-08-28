@@ -5,8 +5,45 @@
   Update the code so that you get the expected result.
 */
 
-function isNegative() {}
+function isNegative(number) {
+  if (number < 0 ) {
+    return "true";
+  } else {
+    "false";
+  }
+}
 
+function isNegative(number) {
+  if ( number < 0) {
+    return "true";
+  } else {
+    return "false";
+  }
+}
+
+function isBetween5and10(number) {
+  if (number >= 5 && number <= 10) {
+    return "True";
+  } else {
+    return "False";
+  }
+}
+
+function isShortName(firstName) {
+  if ( firstName.length < 8 ) {
+    return "true";
+  } else {
+    return "false";
+  }
+}
+
+function startsWithD(firstName) {
+  if (firstName.startsWith ("D") ) {
+    return "true";
+  } else {
+    return "false";
+  }
+}
 /* 
   DO NOT EDIT BELOW THIS LINE
   --------------------------- */
