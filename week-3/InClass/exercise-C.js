@@ -10,6 +10,7 @@ function magician(yourFunc) {
     "Chris",
     "Antigoni",
   ];
+  
 
   const magicOutput = yourFunc(namesArray);
 
