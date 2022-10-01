@@ -11,3 +11,5 @@ function moodChecker(text) {
 }
 console.log(moodChecker("number"));localStorage
 
+
+
