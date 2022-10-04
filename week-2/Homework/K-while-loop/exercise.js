@@ -12,8 +12,8 @@ function sumTillNum(num){
 	let i = 0
 	let sum = 0
 	while (i <= num) {
-		i += 1
 		sum += i
+		i += 1
 	}
 	return sum
 	//your code here
